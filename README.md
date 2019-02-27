@@ -1,3 +1,4 @@
 A repository for training purposes
 
-Creating a push conflict. Here are the local and remote changes
+
+Here are the local and remote changes. Creating a push conflict
